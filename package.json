@@ -3,5 +3,8 @@
   "version": "0.1.0",
   "dependencies": {
     "foo": "file:local/foo"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
