@@ -1,0 +1,7 @@
+{
+  "name": "npm-local-dependency",
+  "version": "0.1.0",
+  "dependencies": {
+    "foo": "file:local/foo"
+  }
+}
